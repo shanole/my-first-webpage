@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-style: sans-serif;
+    font-family: 'Roboto';
+}
+
+p {
+    font-family: 'Hachi Maru Pop', cursive;
+}
+
+ul {
+    font-family: 'Hachi Maru Pop';
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 90px;
+}
